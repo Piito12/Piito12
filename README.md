@@ -1,5 +1,10 @@
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+
+
 - 👋 Hi, I’m @Piito12
-- 👀 I’m interested in Software Enineer , Solfware Developer , Full Stack
+- 👀 I’m interested in Software Enineer , Software Developer , Full Stack
 - 🌱 I’m currently learning Kasetsart University and Techup Thailand.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
