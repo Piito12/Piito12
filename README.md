@@ -4,8 +4,8 @@
 
 
 - 👋 Hi, I’m @Piito12
-- 👀 I’m interested in Software Enineer , Software Developer , Full Stack
-- 🌱 I’m currently learning Kasetsart University and Techup Thailand.
+- 👀 I’m interested in Software Engineer , Software Developer , Full Stack
+- 🌱 I’m was graduated from Kasetsart University and currenly Techup Thailand.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
