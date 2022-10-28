@@ -7,7 +7,7 @@
 - 👀 I’m interested in Software Engineer , Software Developer , Full Stack
 - 🌱 I’m was graduated from Kasetsart University and currenly learning on Techup Thailand.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me linkin: https://www.linkedin.com/in/oatto12/  email : sitthipong18748@gmail.com
 
 <!---
 Piito12/Piito12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
