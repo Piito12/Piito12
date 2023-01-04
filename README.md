@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @Piito12
 - 👀 I’m interested in Software Engineer , Software Developer , Full Stack
 - 🌱 I’m was graduated from Kasetsart University and currenly learning on Techup Thailand.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m Software Developer at M Intelligence Co.
 - 📫 How to reach me linkin: https://www.linkedin.com/in/oatto12/  email : sitthipong18748@gmail.com
 
 <!---
