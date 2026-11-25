@@ -3,7 +3,7 @@
 </svg>
 
 
-- 👋 Hi, I’m @Piito12
+- 👋 Hi, I’m @Pinto12
 - 👀 I’m interested in Software Engineer , Software Developer , Full Stack
 - 🌱 I’m was graduated from Kasetsart University and currenly learning on Techup Thailand.
 - 💞️ I’m Software Developer at M Intelligence Co.
